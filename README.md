@@ -5,9 +5,9 @@ A wrapper/facade class for PHP's LibSodium extension. Providing symmetric and pu
 
 Hex-encoded: All output converted to hex. Inputs expecting hex values.
 
-Licence: MIT.
-Author: Sherri Wheeler sherri.syntaxseed@ofitall.com
-Packagist: https://packagist.org/packages/syntaxseed/libsodium
+* Licence: MIT
+* Author: Sherri Wheeler sherri.syntaxseed@ofitall.com
+* Packagist: https://packagist.org/packages/syntaxseed/libsodium
 
 Install
 --------
