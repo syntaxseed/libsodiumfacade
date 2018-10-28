@@ -1,5 +1,5 @@
 {
-    "name": "Syntaxseed/Libsodium",
+    "name": "syntaxseed/libsodium",
     "description": "A wrapper/facade class for PHP's Libsodium extension functions. Covers symmetric and public key encryption functions.",
     "keywords": ["encryption", "libsodium", "sodium", "facade"],
     "license": "MIT",
