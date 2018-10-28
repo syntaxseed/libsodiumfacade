@@ -1,0 +1,26 @@
+{
+    "name": "Syntaxseed/Libsodium",
+    "description": "A wrapper/facade class for PHP's Libsodium extension functions. Covers symmetric and public key encryption functions.",
+    "keywords": ["encryption", "libsodium", "sodium", "facade"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sherri Wheeler",
+            "email": "sherri.syntaxseed@ofitall.com",
+            "homepage": "http://syntaxseed.com",
+            "role": "Developer"
+        }
+    ],
+    "type": "library",
+    "require": {
+        "php": ">=7.2",
+        "ext-sodium": "*"
+    },
+	"require-dev": {
+    },
+	"autoload": {
+        "psr-4": {
+            "Syntaxseed\\Libsodiumfacade\\": "src/"
+        }
+    }
+}
