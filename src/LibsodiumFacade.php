@@ -6,8 +6,8 @@ namespace Syntaxseed\Libsodiumfacade;
  * Binary data encoded as hex for convenience.
  * Functions expect hex input parameters.
   * @author Sherri Wheeler
-  * @version  1.0.0
-  * @copyright Copyright (c) 2018, Sherri Wheeler - syntaxseed.com
+  * @version  1.0.2
+  * @copyright Copyright (c) 2022, Sherri Wheeler - syntaxseed.com
   * @license MIT
  */
 
@@ -111,9 +111,11 @@ class LibsodiumFacade
         // Encrypted result.
         $encrypted = bin2hex(
             sodium_crypto_box(
-               $secretString, $nonce, $key
+                $secretString,
+                $nonce,
+                $key
             )
-         );
+        );
 
         return [
             'nonce' => bin2hex($nonce),
