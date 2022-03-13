@@ -26,12 +26,12 @@ echo("==== SYMMETRIC KEY ENCRYPTION ====\n\n");
 
 echo("Original Message: \n");
 print_r($secretMessage);
-echo ("\n\n");
+echo("\n\n");
 
-echo ("Encrypted Message: \n");
+echo("Encrypted Message: \n");
 print_r($encryptedMessage);
-echo ("\n\n");
+echo("\n\n");
 
-echo ("Decrypted Message: \n");
+echo("Decrypted Message: \n");
 print_r($decryptedMessage);
-echo ("\n\n");
+echo("\n\n");

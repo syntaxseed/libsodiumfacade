@@ -1,4 +1,5 @@
 <?php
+
 namespace Syntaxseed\Libsodiumfacade;
 
 /**
@@ -6,7 +7,7 @@ namespace Syntaxseed\Libsodiumfacade;
  * Binary data encoded as hex for convenience.
  * Functions expect hex input parameters.
   * @author Sherri Wheeler
-  * @version  1.0.2
+  * @version  1.0.3
   * @copyright Copyright (c) 2022, Sherri Wheeler - syntaxseed.com
   * @license MIT
  */

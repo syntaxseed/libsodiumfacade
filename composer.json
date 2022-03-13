@@ -6,14 +6,13 @@
     "authors": [
         {
             "name": "Sherri Wheeler",
-            "email": "sherri.syntaxseed@ofitall.com",
             "homepage": "http://syntaxseed.com",
             "role": "Developer"
         }
     ],
     "type": "library",
     "require": {
-        "php": "^7.2|^8.0",
+        "php": "^8.0|^8.1",
         "ext-sodium": "*"
     },
 	"require-dev": {
