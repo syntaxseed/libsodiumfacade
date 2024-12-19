@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Example usage for public key encryption.
  * Both parties need a pair of keys. One public they share with the other party.

@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Example usage for symmetric key encryption.
  * One key is used to both encrypt and decrypt.

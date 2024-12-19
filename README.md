@@ -14,8 +14,8 @@ A wrapper/facade class for PHP's LibSodium extension. Providing symmetric and pu
 Hex-encoded: All output converted to hex. Inputs expect hex-encoded values.
 
 * Licence: MIT
-* Version: 1.0.3
-* PHP Versions: 8.0+, 8.1+.
+* Version: 1.0.4
+* PHP Versions: 8.0+, 8.1+, 8.2+, 8.3+.
 * Author: Sherri Wheeler sherri.syntaxseed@ofitall.com
 * Packagist: https://packagist.org/packages/syntaxseed/libsodium
 
@@ -59,3 +59,4 @@ Changelog
   * v1.0.1 - (2018-10-27) Update readme, add Composer instructions.
   * v1.0.2 - (2022-02-02) Test for PHP 8.0. Add example usage file.
   * v1.0.3 - (2022-03-13) Test for PHP 8.1. Fix PSR formatting.
+  * v1.0.4 - (2024-12-18) Test for PHP 8.3.

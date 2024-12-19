@@ -6,13 +6,13 @@
     "authors": [
         {
             "name": "Sherri Wheeler",
-            "homepage": "http://syntaxseed.com",
+            "homepage": "https://syntaxseed.com",
             "role": "Developer"
         }
     ],
     "type": "library",
     "require": {
-        "php": "^8.0|^8.1",
+        "php": "^8.0|^8.1|^8.2|^8.3",
         "ext-sodium": "*"
     },
 	"require-dev": {
